@@ -38,7 +38,7 @@ public class EmpresaModel {
     }
 
     public Integer getTelefono() {
-        return telefono;
+        return this.telefono;
     }
 
     public void setTelefono(Integer telefono) {
